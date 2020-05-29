@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "farmacia",
+      "type": "com.farmacias.model.FarmaciaProperties",
+      "sourceType": "com.farmacias.model.FarmaciaProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "farmacia.url",
+      "type": "java.lang.String",
+      "sourceType": "com.farmacias.model.FarmaciaProperties"
+    }
+  ],
+  "hints": []
+}
